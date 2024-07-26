@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@yash112/jwt-library": "^1.0.0",
+    "@yash112/jwt-library": "^1.0.2",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
