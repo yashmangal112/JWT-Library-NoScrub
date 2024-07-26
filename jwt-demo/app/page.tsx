@@ -118,11 +118,13 @@ const Page = () => {
         </button>
       </div>
 
+      {isValid && (
       <div className="mb-4 flex">
         <label className="block">Token Validity - </label>
         <label className='ml-2 font-medium'>{isValid ? 'Valid' : 'Invalid'}</label>
       </div>
-
+      )}
+      
       <div className="mb-4">
         <button onClick={handleApiRequest} className="bg-teal-500 text-white px-4 py-2 rounded">
           Test Secure API
