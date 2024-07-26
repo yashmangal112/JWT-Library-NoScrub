@@ -1,0 +1,26 @@
+{
+  "name": "@yash112/jwt-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": ["jwt", "JWTs", "JSON Web Tokens", "authentication"],
+  "author": "Yash Mangal",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/jsonwebtoken": "^9.0.6",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.3",
+    "typescript": "^5.5.4"
+  }
+}

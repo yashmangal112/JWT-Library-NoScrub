@@ -1,0 +1,8 @@
+jwt-library/node_modules
+jwt-library/dist
+jwt-library/.env
+jwt-library/.env.local
+jwt-library/.env.development
+
+jwt-demo/node_modules
+jwt-demo/env
