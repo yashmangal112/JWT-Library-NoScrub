@@ -1,6 +1,6 @@
 {
   "name": "@yash112/jwt-library",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "keywords": ["jwt", "JWTs", "JSON Web Tokens", "authentication"],
   "author": "Yash Mangal",
-  "license": "MIT",
+  "license": "ISC",
   "publishConfig": {
     "access": "public"
   },
